@@ -119,9 +119,6 @@ InventorySystem
 * Login & Authentication
 * Role Based Access
 * Dashboard Alerts
-* Export to Excel/PDF
-* Advanced Inventory Reports
-* Deployment on Cloud
 
 ---
 
